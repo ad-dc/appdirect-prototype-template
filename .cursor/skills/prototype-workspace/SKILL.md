@@ -40,4 +40,4 @@ Do not cherry-pick or merge `appdirect-design-system`.
 
 ## Setup
 
-VPN required for `@appdirect/design-tokens`. Then `npm install` and `npm run dev`.
+`npm install` then `npm run dev`. Token CSS ships inside the kit tarball. No Artifactory.

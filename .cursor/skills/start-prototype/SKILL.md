@@ -16,4 +16,4 @@ Default: private repo under the signed-in GitHub user.
 gh repo create SLUG --template ad-dc/appdirect-prototype-template --private --clone
 ```
 
-Then `npm install` and `npm run dev`. VPN is required for `@appdirect/design-tokens`.
+Then `npm install` and `npm run dev`. The kit tarball comes from GitHub Releases on `ad-dc/appdirect-design-system`. No Artifactory.

@@ -12,7 +12,7 @@ In Cursor, `/prototype-workspace` adds pages; `/start-prototype` creates another
 
 ## Setup
 
-VPN is required for `@appdirect/design-tokens` (Artifactory). The kit itself installs from GitHub.
+The kit installs from a GitHub Release tarball on `ad-dc/appdirect-design-system`. Public npm covers Mantine, Next.js, and fonts. No Artifactory or VPN.
 
 ```bash
 npm install
@@ -20,12 +20,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000/prototype](http://localhost:3000/prototype).
-
-If `npm install` fails on `@appdirect/design-tokens`:
-
-```bash
-npm login --registry https://artifactory.appdirect.tools/artifactory/api/npm/npm-repo
-```
 
 ## Create a page
 
