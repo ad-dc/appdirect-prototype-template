@@ -11,7 +11,7 @@
     "create-page": "node tools/create-page.js"
   },
   "dependencies": {
-    "@appdirect/ds-prototype-kit": "https://github.com/ad-dc/appdirect-design-system/releases/download/v0.2.1/appdirect-ds-prototype-kit-0.2.1.tgz",
+    "@appdirect/ds-prototype-kit": "https://github.com/ad-dc/appdirect-design-system/releases/download/v0.2.2/appdirect-ds-prototype-kit-0.2.2.tgz",
     "@fontsource-variable/inter": "^5.2.8",
     "@fontsource-variable/roboto-mono": "^5.2.8",
     "@mantine/core": "^9.0.1",
